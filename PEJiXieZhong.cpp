@@ -6,7 +6,7 @@
  * @Description:PVZ_[PE]机械钟无炮_Endless
  * @FilePath: \AVZscript\PEJiXieZhong.cpp
  */
-// 声明通用库
+
 #include "avz.h"
 
 using namespace AvZ;
